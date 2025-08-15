@@ -266,7 +266,7 @@ void handleClient(TFMPlus *frontLidar, TFMPlus *rearLidar)
         distanceChart.data.datasets[1].data = [];
         distanceChart.update();
 
-        alert("RFID tag cleared");
+        <!-- alert("RFID tag cleared"); -->
       });
     }
 

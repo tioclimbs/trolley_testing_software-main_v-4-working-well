@@ -742,7 +742,7 @@ boolean RFID::setupModule(void)
 
   setRegion(REGION_NORTHAMERICA);
 
-  setReadPower(2000);
+  setReadPower(2700);
 
   setWritePower(2000);
 
